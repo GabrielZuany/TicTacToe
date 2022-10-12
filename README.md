@@ -1,8 +1,11 @@
 # TIC TAC TOE
 To run:<br>
 - Go to your terminal in /path/TicTacToe/RunScript;<br>
-- Write: $chmod +777 ./run.sh <br>
-- Write:$./run.sh <br>
+
+~~~~Shell
+chmod +777 ./run.sh
+./run.sh
+~~~~
 
 <img src="https://github.com/GabrielZuany/TicTacToe/blob/main/img/command.png"/><br>
 -------
