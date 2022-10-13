@@ -1,5 +1,5 @@
 cd ..
 cd Source_Code
-gcc -o game main.c tGame.c
+gcc main.c tGame.c -o game
 ./game
 rm game
