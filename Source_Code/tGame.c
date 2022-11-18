@@ -39,7 +39,7 @@ void PlayGame(tGame game){
             }
 
         }else{
-            printf("Invalid cell, try agin.\n\n");
+            printf("Invalid position, try agin.\n\n");
             continue;
         }
         winner = CheckWinner(game);
