@@ -1,13 +1,17 @@
 # TIC TAC TOE
 To run:<br>
-- Go to your terminal in /path/TicTacToe/RunScript;<br>
-
+- Go to your terminal in /path/TicTacToe;<br>
+- This command will generate the object files to build the executable file.
 ~~~~Shell
-chmod +777 ./run.sh
-./run.sh
+make
 ~~~~
 
-<img src="https://github.com/GabrielZuany/TicTacToe/blob/main/img/command.png"/><br>
+<img src="https://github.com/GabrielZuany/TicTacToe/blob/main/img/objects.png"/><br>
+
+- Then, to play, you must tap:<br>
+~~~~Shell
+make PlayGame
+~~~~
 -------
 -------
 ### Initial Board:
